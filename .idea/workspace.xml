@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58c31c40-1f36-4fd1-8a52-f7bcc4c59b27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DymovExam.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix.java" afterDir="false" />
-    </list>
+    <list default="true" id="58c31c40-1f36-4fd1-8a52-f7bcc4c59b27" name="Changes" comment="First commit. the code is in the src directory" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +58,14 @@
       <option name="presentableId" value="Default" />
       <updated>1694245138914</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit. the code is in the src directory">
+      <created>1694247757944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694247757944</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,5 +78,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit. the code is in the src directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit. the code is in the src directory" />
   </component>
 </project>
